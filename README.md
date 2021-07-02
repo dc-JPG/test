@@ -1,1 +1,6 @@
-# test
+client_token: eWi_nIarJ0XgtPdU_v0ofg:APA91bFeGMimE5OA8gVhHqxMAlHVAZFnG0crWCwYPF-yYH0sdZqSnbqk0YvKkhHRp6Zz0FJUXQZq34wiRHAoSkteNm5Nytv1jykWdG3e_F2bOsc1bujuGUJ66f9_YzFh9JILo8ErQIpR
+pkg: com.dcinside.mobileapp
+signature: Ah54t065GYTinrJ2kzeXKjNDhHvqamsbLNPrawKJ3ds=
+vCode: 30206
+vName: 3.2.6
+value_token: 23936465bfc987b9bdd3dc6bbd7613153f12a30267b6a8bece82817ee3243517
